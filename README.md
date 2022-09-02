@@ -6,6 +6,8 @@ TECHNICAL SKILLS:
 React || React Native || PostgreSQL || Node.js || NoSQL || Advanced Version Control
 
 🔭 I’m currently working on React SPA 
+
 🌱 I’m currently learning Scrum and Agile
+
 📫 How to reach me: https://cvgener.netlify.app/
 
