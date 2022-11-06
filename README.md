@@ -5,7 +5,7 @@ I am extremely hard working, committed to efficiency and results. Successfully i
 TECHNICAL SKILLS:
 React || React Native || PostgreSQL || Node.js || NoSQL || Advanced Version Control
 
-🔭 I’m currently working on "Chatorzo" - Realtime Chat Messaging App
+🔭 I’m currently working on "Globo Co." - React Native App with Expo Go
 
 🌱 I’m currently learning Scrum and Agile
 
