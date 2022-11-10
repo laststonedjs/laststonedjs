@@ -7,7 +7,7 @@ React || React Native || PostgreSQL || Node.js || NoSQL || Advanced Version Cont
 
 🔭 I’m currently working on "Globo Co." - React Native App with Expo Go
 
-🌱 I’m currently learning and tracking courses/paths on Pluralsight
+🌱 I’m currently learning and tracking courses/paths on Pluralsight platform
 
 📫 How to reach me: https://laststonedjs.github.io/
 
