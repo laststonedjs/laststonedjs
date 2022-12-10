@@ -5,7 +5,7 @@ I am extremely hard working, committed to efficiency and results. Successfully i
 TECHNICAL SKILLS:
 React || React Native || PostgreSQL || Node.js || NoSQL || Advanced Version Control
 
-🔭 I’m currently working on "Amazon Clone App" - Flutter and Node.js 
+🔭 I’m currently working on "PopcornScope" - React UI Movie App 
 
 🌱 I’m currently learning and tracking courses/paths on Pluralsight platform
     https://app.pluralsight.com/profile/filip-sarovic
