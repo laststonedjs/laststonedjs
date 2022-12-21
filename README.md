@@ -7,7 +7,7 @@ React || React Native || PostgreSQL || Node.js || NoSQL || Advanced Version Cont
 
 🔭 I’m currently working on "FullStack MERN app" - React Movie App
 
-🌱 I’m currently learning and tracking courses/paths on Pluralsight platform
+🌱 Learning and tracking courses/paths on Pluralsight platform
     https://app.pluralsight.com/profile/filip-sarovic
 
 📫 How to reach me: https://laststonedjs.github.io/
