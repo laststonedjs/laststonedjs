@@ -1,8 +1,9 @@
-### Hi! My name is Filip, and I am Software Developer 👋
+### Hi! My name is Filip, and I'm Software Web Developer 👋
 
+# About Me
 I am extremely hard working, committed to efficiency and results. Successfully identified, diagnosed and fixed website issues. Personal growth and learning is one of my core driving forces. Passionate about tech, product, and improving the world.
 
-# TECHNICAL SKILLS:
+# Technical Skilss
 React || React Native || PostgreSQL || Node.js || NoSQL || Advanced Version Control
 <hr>
 
@@ -11,6 +12,6 @@ React || React Native || PostgreSQL || Node.js || NoSQL || Advanced Version Cont
 🌱 Learning and tracking courses/paths on Pluralsight platform <br/> https://app.pluralsight.com/profile/filip-sarovic
 <hr>
 
-📫 How to reach me: <br/> https://laststonedjs.github.io/
+📫 How to reach me <br/> https://laststonedjs.github.io/
 
-My Resume: <br/> https://cvgener.netlify.app/
+My Resume <br/> https://cvgener.netlify.app/
