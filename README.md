@@ -12,7 +12,7 @@ React || React Native || PostgreSQL || Node.js || NoSQL || Advanced Version Cont
 
 🔭 I’m currently working on "FullStack MERN app" - React Movie App <br/> https://moon-watch-tmdbi.netlify.app/
 
-🌱 Learning and tracking courses/paths on Pluralsight platform <br/> https://app.pluralsight.com/profile/filip-sarovic
+🌱 Learning and tracking courses/paths/projects on 'Pluralsight' platform <br/> https://app.pluralsight.com/profile/filip-sarovic
 <hr>
 
 📫 How to reach me <br/> https://laststonedjs.github.io/
