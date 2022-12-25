@@ -1,4 +1,4 @@
-### Hi! 👋
+### Hi! My name is Filip, and I am Software Developer 👋
 
 I am extremely hard working, committed to efficiency and results. Successfully identified, diagnosed and fixed website issues. Personal growth and learning is one of my core driving forces. Passionate about tech, product, and improving the world.
 
