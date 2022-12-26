@@ -1,4 +1,4 @@
-# Hi! 👋 My name is Filip, <br/> Web Developer 
+# Hi! 👋 I am Filip, <br/> Web Developer 
 
 
 ## About Me
