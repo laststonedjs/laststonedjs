@@ -18,7 +18,7 @@ Team oriented || Positive Influence on the team || Developed analytical skills |
 
 My Resume <br/> https://cvgener.netlify.app/
 
-🔭 Here you can see my React js "Movie App" project deployed with netlify, connected with backend (Node.js), created user authentication( Sign Up, Sign In ) <br/>
+🔭 Here you can see my React js "Movie App" deployed with Netlify, connected backend (Node.js), created user authentication( Sign Up, Sign In ) <br/>
 https://moon-watch-tmdbi.netlify.app/
 
 🌱 Learning and tracking courses/paths/projects on 'Pluralsight' platform <br/> https://app.pluralsight.com/profile/filip-sarovic
