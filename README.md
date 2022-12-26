@@ -21,6 +21,7 @@ My Resume <br/> https://cvgener.netlify.app/
 🔭 Check here --> "Movie App" builded in React JS & deployed with Netlify, connected backend (Node.js), created user authentication( Sign Up, Sign In ) <br/>
 https://moon-watch-tmdbi.netlify.app/
 
-🌱 Learning and tracking courses/paths/projects on 'Pluralsight' <br/> https://app.pluralsight.com/profile/filip-sarovic
+🌱
+
 <hr>
 
