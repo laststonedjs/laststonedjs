@@ -10,7 +10,7 @@ I am extremely hard working, committed to efficiency and results. Successfully i
 React || React Native || PostgreSQL || Node.js || NoSQL || Advanced Version Control
 <hr>
 
-🔭 Here you can see my "Movie App" project deployed with netlify, connected with backend (Node.js), created user authentication( Sign Up, Sign In ) <br/>
+🔭 Here you can see my React js "Movie App" project deployed with netlify, connected with backend (Node.js), created user authentication( Sign Up, Sign In ) <br/>
 https://moon-watch-tmdbi.netlify.app/
 
 🌱 Learning and tracking courses/paths/projects on 'Pluralsight' platform <br/> https://app.pluralsight.com/profile/filip-sarovic
