@@ -22,6 +22,7 @@ Team oriented || Positive Influence on the team || Developed analytical skills |
 
 ```
 /*-*/ a comment that every developer can clearly understands /*-*/
+
 const HowToReachMe = async () => {
 if (you think I can fit into your projects? > don't like me at all) {
   await fetchMe("https://cvgener.netlify.app/") .then((res) => {
@@ -30,8 +31,8 @@ if (you think I can fit into your projects? > don't like me at all) {
   })
   }
 } 
-
 ```
+
 🔭 Check here --> "Movie App" builded in React JS & deployed with Netlify, connected backend (Node.js), created user authentication( Sign Up, Sign In ) <br/>
 https://moon-watch-tmdbi.netlify.app/
 
