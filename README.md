@@ -21,7 +21,7 @@ React || React Native || Angular || PostgreSQL || Node.js || NoSQL || Google Fir
 Team oriented || Positive Influence on the team || Developed analytical skills || Strategic planing
 <hr>
 
-```
+```javascript
 /*-*/ a comment that every developer can clearly understands /*-*/
 
 const HowToReachMe = async () => {
