@@ -26,9 +26,11 @@ Team oriented || Positive Influence on the team || Developed analytical skills |
 
 const HowToReachMe = async () => {
 if (you think I can fit into your projects? > don't like me at all) {
-  await fetchMe("https://cvgener.netlify.app/") .then((res) => {
+  await fetchResumeHere("https://cvgener.netlify.app/") .then((res) => {
     sendMail(res.motivation[ambition]);
-    console.log("let's make this responsive");
+    console.log("Let's go task by task");
+  }).catch(e => {
+    alert("Ups, whoever works hard makes mistakes");
   })
   }
 } 
