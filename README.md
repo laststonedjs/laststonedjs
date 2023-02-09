@@ -28,7 +28,7 @@ const HowToReachMe = async () => {
 if (you think I can fit into your projects? > don't like me at all) {
   await fetchMe("https://cvgener.netlify.app/") .then((res) => {
     sendMail(res.motivation[ambition]);
-    console.log(pushToTheTop);
+    console.log("let's make this responsive");
   })
   }
 } 
