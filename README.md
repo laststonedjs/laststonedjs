@@ -38,7 +38,9 @@ if (you think I can fit into your projects? > don't like me at all) {
 
 #### Resume is here : cvgener.netlify.app
 
-🔭 Fork here ----> [ Movie Theater App ] = builded in React (MovieDB Api for fetching movies and shows), connected backend (Node.js), created user authentication( Sign Up, Sign In ) <br/>
+<img src="https://github-readme-stats.vercel.app/api?username=laststonedjs&show_icons=true&theme=ADD_THEME_HERE" width="400">
+
+🔭 Fork here --> [ Movie Theater App ] Builded with React JS (MovieDB Api for fetching movies and shows), connected backend (Node.js), created user authentication( Sign Up, Sign In ) <br/>
 https://moon-watch-tmdbi.netlify.app/
 
 <hr>
