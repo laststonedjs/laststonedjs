@@ -35,8 +35,8 @@ if (you think I can fit into your projects? > don't like me at all) {
   }
 } 
 ```
-
-### Resume is here: cvgener.netlify.app
+*Resume is here:* 
+https://cvgener.netlify.app/
 
 <img src="https://github-readme-stats.vercel.app/api?username=laststonedjs&show_icons=true&theme=ADD_THEME_HERE" width="400">
 
