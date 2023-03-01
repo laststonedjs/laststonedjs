@@ -36,7 +36,7 @@ if (you think I can fit into your projects? > don't like me at all) {
 } 
 ```
 
-🔎 *Resume is here:* 🔎
+🔎 *Resume is here:*
 https://cvgener.netlify.app/
 
 
