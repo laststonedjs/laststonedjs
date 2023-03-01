@@ -12,7 +12,6 @@ Passionate about tech, product, and sharing knowledge through a healthy and inst
 ```
 
 ## Tech Skills 🖥️
-Javascript Typescript Nodejs HTML5 CSS Bootstrap React Angular
 React || React Native || Angular || PostgreSQL || Node.js || NoSQL || Google Firebase || Advanced Version Control
 <hr>
 
