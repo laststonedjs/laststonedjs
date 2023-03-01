@@ -12,12 +12,10 @@ Passionate about tech, product, and sharing knowledge through a healthy and inst
 ```
 
 ## Tech Skills 🖥️
-
 React || React Native || Angular || PostgreSQL || Node.js || NoSQL || Google Firebase || Advanced Version Control
 <hr>
 
 ## Soft Skills 🌱
-
 Team oriented || Positive Influence on the team || Developed analytical skills || Strategic planing
 <hr>
 
@@ -25,13 +23,15 @@ Team oriented || Positive Influence on the team || Developed analytical skills |
 /*-*/ a comment that every developer can clearly understands /*-*/
 
 const HowToReachMe = async () => {
-if (you think I can fit into your projects? > don't like me at all) {
-  await fetchResumeHere("https://cvgener.netlify.app/") .then((res) => {
-    sendMail(res.motivation[ambition]);
-    console.log("Let's go task by task");
-  }).catch(e => {
-    alert("Ups, whoever works hard makes mistakes");
-  })
+
+  if ( you think I can contribute in some way? > don't like me at all ) {
+    await fetchResumeHere("https://cvgener.netlify.app/")
+      .then((res) => {
+        sendMail(res.motivation[ambition]);
+        console.log("Let's go task by task");
+    }).catch(e) {
+      alert("Ups, whoever works hard makes mistakes");
+    })
   }
 } 
 ```
