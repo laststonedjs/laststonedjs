@@ -16,7 +16,7 @@ Passionate about tech, product, and sharing knowledge through a healthy and inst
 <hr>
 
 ## Soft Skills 🌱
-Team oriented || Positive Influence on the team || Developed analytical skills || Strategic planing
+<strong>Team oriented</strong> || <strong>Positive Influence on the team</strong> || <strong>Developed analytical skills</strong> || <strong>Strategic planing</strong>
 <hr>
 
 ```javascript
