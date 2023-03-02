@@ -12,7 +12,7 @@ Passionate about tech, product, and sharing knowledge through a healthy and inst
 ```
 
 ## Tech Skills 🖥️
-React || React Native || Angular || PostgreSQL || Node.js || NoSQL || Google Firebase || Advanced Version Control
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,angular,react,cs,git,bootstrap,azure)](https://skillicons.dev)
 <hr>
 
 ## Soft Skills 🌱
