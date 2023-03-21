@@ -36,7 +36,10 @@ const HowToReachMe = async () => {
 } 
 ```
 
-🔎 *Resume is here:*
+<h4> 🔎 Website Portfolio, Contact Me.</h4>
+https://filip-dev-portfolio.netlify.app/
+
+🔎 <h4>*Resume is here:*</h4>
 https://cvgener.netlify.app/
 
 
