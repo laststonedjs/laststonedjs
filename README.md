@@ -19,6 +19,13 @@ Passionate about tech, product, and sharing knowledge through a healthy and inst
 <strong>Team oriented</strong> || <strong>Positive Influence on the team</strong> || <strong>Developed analytical skills</strong> || <strong>Strategic planing</strong>
 <hr>
 
+<h3>🔎 Website Portfolio, Contact Me.</h3>
+https://filip-dev-portfolio.netlify.app/
+
+<h3>Resume is here</h3>
+https://cvgener.netlify.app/
+
+
 ```javascript
 /*-*/ a comment that every developer can clearly understands /*-*/
 
@@ -35,13 +42,6 @@ const HowToReachMe = async () => {
   }
 } 
 ```
-
-<h4>🔎 Website Portfolio, Contact Me.</h4>
-https://filip-dev-portfolio.netlify.app/
-
-<h4>*Resume is here:*</h4>
-https://cvgener.netlify.app/
-
 
 <img src="https://github-readme-stats.vercel.app/api?username=laststonedjs&show_icons=true&theme=ADD_THEME_HERE" width="400">
 
