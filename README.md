@@ -24,7 +24,7 @@ https://filip-dev-portfolio.netlify.app/
 
 <h3>Resume is here</h3>
 https://cvgener.netlify.app/
-
+<hr>
 
 ```javascript
 /*-*/ a comment that every developer can clearly understands /*-*/
