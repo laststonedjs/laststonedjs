@@ -25,6 +25,16 @@ Passionate about tech, product, and sharing knowledge through a healthy and inst
 
 <hr>
 
+<details>
+  
+  <summary>:zap: GitHub Stats</summary>
+    <img src="https://github-readme-stats-laststonedjs.vercel.app/api?username=laststonedjs&show_icons=true&theme=ADD_THEME_HERE" width="400">
+
+</details>
+
+ 🎥 [ Movie Theater App ] Builded with React JS (MovieDB Api for fetching movies and shows), connected backend (Node.js), created user authentication( Sign Up, Sign In ) <br/>
+https://moon-watch-tmdbi.netlify.app/
+
 ```javascript
 /*-*/ a comment that every developer can clearly understands /*-*/
 
@@ -41,15 +51,6 @@ const HowToReachMe = async () => {
   }
 } 
 ```
-<details>
-  
-  <summary>:zap: GitHub Stats</summary>
-    <img src="https://github-readme-stats-laststonedjs.vercel.app/api?username=laststonedjs&show_icons=true&theme=ADD_THEME_HERE" width="400">
-
-</details>
-
- 🎥 [ Movie Theater App ] Builded with React JS (MovieDB Api for fetching movies and shows), connected backend (Node.js), created user authentication( Sign Up, Sign In ) <br/>
-https://moon-watch-tmdbi.netlify.app/
 
 <hr>
 
