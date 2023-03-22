@@ -21,7 +21,8 @@ Passionate about tech, product, and sharing knowledge through a healthy and inst
 
 🔎 [website]: https://filip-dev-portfolio.netlify.app/
 
-[resume]: https://cvgener.netlify.app/
+ [resume]: https://cvgener.netlify.app/
+
 <hr>
 
 ```javascript
