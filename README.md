@@ -20,7 +20,7 @@ Passionate about tech, product, and sharing knowledge through a healthy and inst
 <hr>
 
 <h3>🔎 Website Portfolio, Contact Me.</h3>
-https://filip-dev-portfolio.netlify.app/
+[website]: https://filip-dev-portfolio.netlify.app/
 
 <h3>Resume is here</h3>
 https://cvgener.netlify.app/
