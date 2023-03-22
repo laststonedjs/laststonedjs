@@ -43,7 +43,7 @@ const HowToReachMe = async () => {
 } 
 ```
 
-<img src="https://github-readme-stats.vercel.app/api?username=laststonedjs&show_icons=true&theme=ADD_THEME_HERE" width="400">
+<img src="https://github-readme-stats-laststonedjs.vercel.app/api?username=laststonedjs&show_icons=true&theme=ADD_THEME_HERE" width="400">
 
 
  🎥 [ Movie Theater App ] Builded with React JS (MovieDB Api for fetching movies and shows), connected backend (Node.js), created user authentication( Sign Up, Sign In ) <br/>
