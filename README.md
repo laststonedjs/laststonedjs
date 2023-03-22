@@ -44,7 +44,7 @@ const HowToReachMe = async () => {
 ```
 <details>
   
-  <summary>:zep: GitHub Stats</summary>
+  <summary>:zap: GitHub Stats</summary>
     <img src="https://github-readme-stats-laststonedjs.vercel.app/api?username=laststonedjs&show_icons=true&theme=ADD_THEME_HERE" width="400">
 
 </details>
