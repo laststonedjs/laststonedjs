@@ -19,11 +19,9 @@ Passionate about tech, product, and sharing knowledge through a healthy and inst
 <strong>Team oriented</strong> || <strong>Positive Influence on the team</strong> || <strong>Developed analytical skills</strong> || <strong>Strategic planing</strong>
 <hr>
 
-<h3>🔎 Website Portfolio, Contact Me.</h3>
-[website]: https://filip-dev-portfolio.netlify.app/
+🔎 [website]: https://filip-dev-portfolio.netlify.app/
 
-<h3>Resume is here</h3>
-https://cvgener.netlify.app/
+[resume]: https://cvgener.netlify.app/
 <hr>
 
 ```javascript
