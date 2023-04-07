@@ -1,5 +1,5 @@
 # A Big Greeting! 👋 
-## I am Filip, Web Developer 
+## I am Filip, Web & Mobile Developer 
 
 ### Merge With Bio Branch 🎯
 
