@@ -20,13 +20,13 @@ Passionate about tech, product, and sharing knowledge through a healthy and inst
 <strong>Team oriented</strong> || <strong>Positive Influence on the team</strong> || <strong>Developed analytical skills</strong> || <strong>Strategic planing</strong>
 <hr>
 
-🔎 [website]: https://filip-dev-portfolio.netlify.app/
+[website] = https://filip-dev-portfolio.netlify.app/
 
- [resume:] https://cvgener.netlify.app/
+[resume] = https://cvgener.netlify.app/
 
 <hr>
 
-<details>
+🔎 <details>
   
   <summary>:zap: GitHub Stats</summary>
     <img src="https://github-readme-stats-laststonedjs.vercel.app/api?username=laststonedjs&show_icons=true&theme=ADD_THEME_HERE" width="400">
