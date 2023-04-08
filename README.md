@@ -39,7 +39,7 @@ https://moon-watch-tmdbi.netlify.app/
 ```javascript
 /*-*/ a comment that every developer can clearly understands /*-*/
 
-const HowToReachMe = async () => {
+const LetsTalk = async () => {
 
   if ( you think I can contribute in some way? > don't like me at all ) {
     await fetchResumeHere("https://cvgener.netlify.app/")
