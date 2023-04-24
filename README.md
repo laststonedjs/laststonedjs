@@ -1,4 +1,4 @@
-# A Big Compiled Greeting! 👋 
+# Greeting! 👋 
 ## I'm Filip, Web & Mobile Developer 
 
 ### Merge With Bio Branch 🎯
