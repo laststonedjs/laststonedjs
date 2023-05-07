@@ -2,7 +2,8 @@
 ## I'm Filip, Web & Mobile Developer 
 
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx" width="100" frameBorder="0" class="giphy-embed" allowFullScreen />
+  <img src="[https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmU1MDZjNTA3YTQ4YjYyOTkwYWEwYmU4MzUwNmI3NmFkNWNkZWQ2NyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/M9gbBd9nbDrOTu1Mqx/giphy.gif)" width="100" />
+  
 </div>
 
 ### Merge With Bio Branch 🎯
