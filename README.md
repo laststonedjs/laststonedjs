@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <h2>I'm Filip, Web & Mobile Developer<h2>
+  <div >
+    <h2>I'm Filip, Web & Mobile Developer<h2>
+  </div>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/filip-sarovic-4376a61a1">
@@ -14,11 +16,11 @@
   </div>
     <h1>
       hola there
-      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
     </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/Riu2QxvmfrvzRUs6Rv/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="550" height="300" />
 </div>
     
 ---
