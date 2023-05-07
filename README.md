@@ -4,7 +4,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="your-linkedin-URL">
+    <a href="[your-linkedin-URL](https://www.linkedin.com/in/filip-sarovic-4376a61a1/)">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
 </div>
