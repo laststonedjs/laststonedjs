@@ -2,8 +2,11 @@
 ## I'm Filip, Web & Mobile Developer 
 
 <div id="header" align="center">
-  <img src="[https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmU1MDZjNTA3YTQ4YjYyOTkwYWEwYmU4MzUwNmI3NmFkNWNkZWQ2NyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/M9gbBd9nbDrOTu1Mqx/giphy.gif)" width="100" />
-  
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div id="badges">
+    <a href="your-linkedin-URL">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
 </div>
 
 ### Merge With Bio Branch 🎯
