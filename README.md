@@ -1,7 +1,5 @@
-# Greeting! 👋 
-## I'm Filip, Web & Mobile Developer 
-
 <div id="header" align="center">
+  <h2>I'm Filip, Web & Mobile Developer<h2>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/filip-sarovic-4376a61a1">
