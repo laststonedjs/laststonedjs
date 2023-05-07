@@ -5,7 +5,7 @@
   </h2> 
   <div>
     <h1>I'm Filip, Web & Mobile Developer<h1>
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
+    <img src="https://media.giphy.com/media/dtra4r7NXUlI5XRfOR/giphy.gif" width="200"/>
    </div>
   <div id="badges">
     <a href="https://www.linkedin.com/in/filip-sarovic-4376a61a1">
