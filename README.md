@@ -1,62 +1,62 @@
 <div id="header" align="center">
   <h2>I'm Filip, Web & Mobile Developer<h2>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges" width="400">
+  <div id="badges">
     <a href="https://www.linkedin.com/in/filip-sarovic-4376a61a1">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&style=social" alt="LinkedIn Badge"/>
     </a>
+    <a href="https://twitter.com/FilipSarov86171">
+     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&style=social" alt="Twitter Badge"/>
+    </a>
     <a href="https://www.reddit.com/user/ewaldborsodi">
-     <img 
-      src="https://img.shields.io/reddit/subreddit-subscribers/twilightimperium?color=white&label=reddit&logo=reddit&logoColor=orange&style=social"                   alt="Reddit Badge"
-    />
-   </a>
+     <img src="https://img.shields.io/reddit/subreddit-subscribers/twilightimperium?color=white&label=reddit&logo=reddit&logoColor=orange&style=social"               alt="Reddit Badge" />
+    </a>
+  </div>
+    <h1>
+      hola there
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    </h1>
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/Riu2QxvmfrvzRUs6Rv/giphy.gif" width="600" height="300"/>
+</div>
+    
+---
 
-### Merge With Bio Branch 🎯
+### :man_technologist: About Me :  
 
-I am extremely hard working, committed to efficiency and results. Successfully identified, diagnosed and fixed website issues. Resolved web app issues based on external and internal reports. <br/> Help to achieve a consistent look and visual theme across the website by building modern & contemporary UI solutions, finding creative functional solutions for clients through analysis and recognition issues in development. 
-<br/> Personal growth and learning is one of my core driving forces. 
+I am extremely hard working, committed to efficiency and results. Successfully identified, diagnosed and fixed website issues. Resolved web app issues based on external and internal reports. Passionate about tech, product, and sharing knowledge through a healthy and instructive form of community.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend and finding creative functional solutions for clients through analysis and recognition issues in development.
+    
+- :seedling: Exploring Technical Content Writing.
+    
+- :zap: In my free time, I play video and board games, read comics and read tech articles.
+                                  
+---
+    
+---
 
-My greatest love & passion was and will remain for  ```JavaScript```, in general technologies related to JS , but the desire to progress and learn new techs is also a card I play. I have a short experience in working with ```C#``` and ```.NET```.
+### :hammer_and_wrench: Languages and Tools :
 
-```ruby
-Passionate about tech, product, and sharing knowledge through a healthy and instructive form of community.
-```
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,angular,nodejs,cs,git,materialui,azure)](https://skillicons.dev)
+    
+---
 
-## Tech Skills 🖥️
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,angular,cs,git,bootstrap,azure)](https://skillicons.dev)
-<hr>
+---
 
-## Soft Skills 🌱
-<strong>Team oriented</strong> || <strong>Positive Influence on the team</strong> || <strong>Developed analytical skills</strong> || <strong>Strategic planing</strong>
-<hr>
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=laststonedjs&theme=neon&border_radius=2&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+    
+---
+    
+---
+   
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laststonedjs&show_icons=true&theme=radical)    
+    
+---
+    
+---
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[website] = https://filip-dev-portfolio.netlify.app/
-
-[resume] = https://cvgener.netlify.app/
-
-<hr>
-
- 🎥 [ Movie Theater App ] Builded with React JS (MovieDB Api for fetching movies and shows), connected backend (Node.js), created user authentication( Sign Up, Sign In ) <br/>
-https://moon-watch-tmdbi.netlify.app/
-
-```javascript
-/*-*/ a comment that every developer can clearly understands /*-*/
-
-const LetsTalk = async () => {
-
-  if ( you think I can contribute in some way? > don't like me at all ) {
-    await fetchResumeHere("https://cvgener.netlify.app/")
-      .then((res) => {
-        sendMail(res.motivation[ambition]);
-        console.log("Let's go task by task");
-    }).catch(e) {
-      alert("Ups, whoever works hard makes mistakes");
-    })
-  }
-} 
-```
-
-<hr>
-
-さよなら !
+---
