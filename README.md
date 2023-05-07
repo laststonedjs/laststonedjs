@@ -1,11 +1,11 @@
 <div id="header" align="center">
   <h2>I'm Filip, Web & Mobile Developer<h2>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges">
+  <div id="badges" width="200">
     <a href="https://www.linkedin.com/in/filip-sarovic-4376a61a1">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&style=social" alt="LinkedIn Badge"/>
     </a>
-    <a href="your-twitter-URL">
+    <a href="https://www.reddit.com/user/ewaldborsodi">
      <img 
       src="https://img.shields.io/reddit/subreddit-subscribers/twilightimperium?color=white&label=reddit&logo=reddit&logoColor=orange&style=social"                   alt="Reddit Badge"
     />
