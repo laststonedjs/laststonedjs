@@ -5,6 +5,11 @@
     <a href="https://www.linkedin.com/in/filip-sarovic-4376a61a1">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="your-twitter-URL">
+     <img 
+      src="https://img.shields.io/reddit/subreddit-subscribers/twilightimperium?color=white&label=reddit&logo=reddit&logoColor=orange&style=social"                   alt="Reddit Badge"
+    />
+   </a>
 </div>
 
 ### Merge With Bio Branch 🎯
