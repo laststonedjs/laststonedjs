@@ -14,9 +14,6 @@
     <a href="https://twitter.com/FilipSarov86171">
      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&style=social" alt="Twitter Badge"/>
     </a>
-    <a href="https://www.reddit.com/user/ewaldborsodi">
-     <img src="https://img.shields.io/reddit/subreddit-subscribers/twilightimperium?color=white&label=reddit&logo=reddit&logoColor=orange&style=social"               alt="Reddit Badge" />
-    </a>
   </div>
 </div>
     </br>
