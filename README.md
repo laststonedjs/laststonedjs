@@ -45,13 +45,7 @@ I am extremely hard working, committed to efficiency and results. Successfully i
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=laststonedjs&theme=neon&border_radius=2&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-    
----
-    
----
-   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laststonedjs&show_icons=true&theme=radical)    
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=laststonedjs&theme=neon&border_radius=2&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)  
     
 ---
     
