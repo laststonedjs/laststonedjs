@@ -30,7 +30,7 @@ I am extremely hard working, committed to efficiency and results. Successfully i
     
 - :seedling: Exploring Technical Content Writing.
     
-- :zap: In my free time, I play video and board games, read comics and read tech articles.
+- :zap: In my free time, I play video and board games, read comics and various type of articles.
                                   
 ---
     
