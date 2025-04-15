@@ -33,14 +33,10 @@ I am extremely hard working, committed to efficiency and results. Successfully i
 - :zap: In my free time, I play video and board games, read comics and various type of articles.
                                   
 ---
-    
----
 
 ### :hammer_and_wrench: Languages and Tools :
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,angular,nodejs,cs,git,materialui,azure)](https://skillicons.dev)
-    
----
     
 ---
 
