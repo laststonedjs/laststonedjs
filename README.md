@@ -41,13 +41,6 @@ I am extremely hard working, committed to efficiency and results. Successfully i
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,angular,nodejs,cs,git,materialui,azure)](https://skillicons.dev)
     
 ---
-
----
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=laststonedjs&theme=neon&border_radius=2&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)  
-    
----
     
 ---
 
