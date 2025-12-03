@@ -17,8 +17,6 @@
   </div>
 </div>
     </br>
----
-
 ### :man_technologist: About Me :  
 
 I am extremely hard working, committed to efficiency and results. Successfully identified, diagnosed and fixed website issues. Resolved web app issues based on external and internal reports. Passionate about tech, product, and sharing knowledge through a healthy and instructive form of community.
