@@ -11,7 +11,7 @@
     <a href="https://www.linkedin.com/in/filip-sarovic-4376a61a1">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&style=social" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://twitter.com/FilipSarov86171">
+    <a href="[twitter.com/FilipSarov86171](https://x.com/PascallCase)">
      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&style=social" alt="Twitter Badge"/>
     </a>
   </div>
