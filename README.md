@@ -8,7 +8,7 @@
     <img src="https://media.giphy.com/media/dtra4r7NXUlI5XRfOR/giphy.gif" width="200"/>
    </div>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/filip-sarovic-4376a61a1">
+    <a href="https://www.linkedin.com/in/filip-sarovic-1898752ba/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&style=social" alt="LinkedIn Badge"/>
     </a>
     <a href="https://x.com/PascallCase">
