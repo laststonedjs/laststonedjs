@@ -20,7 +20,14 @@
 :man_technologist: About Me :  
 
 I am extremely hard working, committed to efficiency and results. Successfully identified, diagnosed and fixed website issues. Resolved web app issues based on external and internal reports. Passionate about tech, product, and sharing knowledge through a healthy and instructive form of community.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend and finding creative functional solutions for clients through analysis and recognition issues in development.
+- :telescope: As a dedicated Software Engineer, I thrive on transforming complex challenges into innovative solutions. With a strong foundation in software development and a passion for technology, I specialize in creating scalable applications that enhance user experiences and drive business success.
+
+Key strengths include:
+- Proficient in multiple programming languages and frameworks, ensuring versatility in project execution.
+- Proven track record of delivering high-quality software on time and within budget.
+- Strong problem-solving skills, with a focus on optimizing performance and efficiency.
+
+I am always eager to connect with fellow professionals and explore new opportunities. Let’s collaborate to drive innovation and success in the tech industry! Feel free to reach out to discuss ideas or potential partnerships.
     
 - :seedling: Exploring Technical Content Writing.
     
